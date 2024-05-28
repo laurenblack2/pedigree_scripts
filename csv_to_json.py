@@ -64,7 +64,7 @@ def csv_to_json(csvFilePath, jsonFilePath):
         jsonString = json.dumps(d, indent = 2)
         jsonf.write(jsonString)
 
-csvFilePath = r'PPB_json_5983_noheaders.csv'
-jsonFilePath = r'5983_pedigree.json'
+csvFilePath = r'json_other.csv'
+jsonFilePath = r'pedigree.json'
 csv_to_json(csvFilePath, jsonFilePath)
 print("\nPedigree JSON created\n")
