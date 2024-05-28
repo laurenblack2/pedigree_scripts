@@ -1,0 +1,617 @@
+{
+  "people": {
+    "5983-01-001": {
+      "name": "name here",
+      "father": "5983-02-001",
+      "mother": "5983-02-002"
+    },
+    "Female": {
+      "gender": "Female"
+    },
+    "86311": {
+      "code": "86311",
+      "site": "C569",
+      "morphology": "86311",
+      "laterality": "1",
+      "behavior": "1",
+      "diagnosis_method": "6",
+      "age_of_diagnosis": "16.99",
+      "date_of_diagnosis": "4/9/1997"
+    },
+    "E041": {
+      "code": "E041",
+      "laterality": "0",
+      "diagnosis_method": "6",
+      "age_of_diagnosis": "49.2",
+      "date_of_diagnosis": "4/19/2001"
+    },
+    "6531": {
+      "code": "6531",
+      "laterality": "1",
+      "age_at_procedure": "16.99",
+      "date_of_procedure": "4/9/1997",
+      "intent": "5",
+      "procedure_validation": "4"
+    },
+    "5983-01-002": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "Male": {
+      "gender": "Male"
+    },
+    "": {
+      "code": "",
+      "site": "",
+      "morphology": "",
+      "laterality": "",
+      "behavior": "",
+      "diagnosis_method": "",
+      "age_of_diagnosis": "",
+      "date_of_diagnosis": "",
+      "age_at_procedure": "",
+      "date_of_procedure": "",
+      "intent": "",
+      "procedure_validation": ""
+    },
+    "5983-01-003": {
+      "name": "name here",
+      "father": "5983-02-001",
+      "mother": "5983-02-002"
+    },
+    "M856": {
+      "code": "M856",
+      "laterality": "0",
+      "diagnosis_method": "6",
+      "age_of_diagnosis": "31.4",
+      "date_of_diagnosis": "12/31/2014"
+    },
+    "8741": {
+      "code": "8741",
+      "laterality": "",
+      "age_at_procedure": "0.79",
+      "date_of_procedure": "8/1/2018",
+      "intent": "8",
+      "procedure_validation": "5"
+    },
+    "8873": {
+      "code": "8873",
+      "laterality": "0",
+      "age_at_procedure": "7.83",
+      "date_of_procedure": "3/21/2016",
+      "intent": "8",
+      "procedure_validation": "5"
+    },
+    "3399": {
+      "code": "3399",
+      "laterality": "1",
+      "age_at_procedure": "7.93",
+      "date_of_procedure": "4/28/2016",
+      "intent": "5",
+      "procedure_validation": "7"
+    },
+    "E042": {
+      "code": "E042",
+      "laterality": "0",
+      "diagnosis_method": "1",
+      "age_of_diagnosis": "16.96",
+      "date_of_diagnosis": ""
+    },
+    "5983-01-004": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-01-005": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-01-006": {
+      "name": "name here",
+      "father": "5983-02-001",
+      "mother": "5983-02-002"
+    },
+    "5983-01-007": {
+      "name": "name here",
+      "father": "5983-02-005",
+      "mother": "5983-02-006"
+    },
+    "5983-01-008": {
+      "name": "name here",
+      "father": "5983-02-007",
+      "mother": "5983-02-008"
+    },
+    "5983-01-009": {
+      "name": "name here",
+      "father": "5983-02-007",
+      "mother": "5983-02-008"
+    },
+    "Unknown": {
+      "gender": "Unknown"
+    },
+    "5983-01-010": {
+      "name": "name here",
+      "father": "5983-02-009",
+      "mother": "5983-02-010"
+    },
+    "5983-01-011": {
+      "name": "name here",
+      "father": "5983-02-003",
+      "mother": "5983-02-004"
+    },
+    "89730": {
+      "code": "89730",
+      "site": "C343",
+      "morphology": "89730",
+      "laterality": "1",
+      "behavior": "0",
+      "diagnosis_method": "18",
+      "age_of_diagnosis": "7.93",
+      "date_of_diagnosis": "4/28/2016"
+    },
+    "0639": {
+      "code": "0639",
+      "laterality": "0",
+      "age_at_procedure": "19.05",
+      "date_of_procedure": "12/11/1961",
+      "intent": "1",
+      "procedure_validation": "7"
+    },
+    "J984": {
+      "code": "J984",
+      "laterality": "4",
+      "diagnosis_method": "5",
+      "age_of_diagnosis": "7.83",
+      "date_of_diagnosis": "3/22/2016"
+    },
+    "N832": {
+      "code": "N832",
+      "laterality": "9",
+      "diagnosis_method": "15",
+      "age_of_diagnosis": "43.16",
+      "date_of_diagnosis": "5/3/2016"
+    },
+    "5983-01-012": {
+      "name": "name here",
+      "father": "5983-02-007",
+      "mother": "5983-02-008"
+    },
+    "5983-01-013": {
+      "name": "name here",
+      "father": "5983-02-007",
+      "mother": "5983-02-008"
+    },
+    "5983-01-014": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-01-015": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-01-016": {
+      "name": "name here",
+      "father": "5983-02-009",
+      "mother": "5983-02-010"
+    },
+    "5983-01-017": {
+      "name": "name here",
+      "father": "5983-02-009",
+      "mother": "5983-02-010"
+    },
+    "5983-01-018": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-01-019": {
+      "name": "name here",
+      "father": "5983-02-009",
+      "mother": "5983-02-010"
+    },
+    "5983-01-020": {
+      "name": "name here",
+      "father": "5983-02-003",
+      "mother": "5983-02-004"
+    },
+    "5983-01-021": {
+      "name": "name here",
+      "father": "5983-02-003",
+      "mother": "5983-02-004"
+    },
+    "5983-01-022": {
+      "name": "name here",
+      "father": "5983-02-005",
+      "mother": "5983-02-006"
+    },
+    "5983-01-023": {
+      "name": "name here",
+      "father": "5983-02-005",
+      "mother": "5983-02-006"
+    },
+    "5983-01-024": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "J189": {
+      "code": "J189",
+      "laterality": "1",
+      "diagnosis_method": "5",
+      "age_of_diagnosis": "19.05",
+      "date_of_diagnosis": "12/13/1961"
+    },
+    "5523": {
+      "code": "5523",
+      "laterality": "",
+      "age_at_procedure": "26.9",
+      "date_of_procedure": "",
+      "intent": "5",
+      "procedure_validation": "2"
+    },
+    "N281": {
+      "code": "N281",
+      "laterality": "2",
+      "diagnosis_method": "2",
+      "age_of_diagnosis": "26.49",
+      "date_of_diagnosis": ""
+    },
+    "5983-01-025": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-02-001": {
+      "name": "name here",
+      "father": "5983-04-001",
+      "mother": "5983-04-002"
+    },
+    "5983-02-002": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "80703": {
+      "code": "80703",
+      "site": "C449",
+      "morphology": "80703",
+      "laterality": "0",
+      "behavior": "3",
+      "diagnosis_method": "2",
+      "age_of_diagnosis": "56.98",
+      "date_of_diagnosis": ""
+    },
+    "E063": {
+      "code": "E063",
+      "laterality": "0",
+      "diagnosis_method": "1",
+      "age_of_diagnosis": "8.98",
+      "date_of_diagnosis": ""
+    },
+    "0611": {
+      "code": "0611",
+      "laterality": "0",
+      "age_at_procedure": "60.12",
+      "date_of_procedure": "8/5/2014",
+      "intent": "5",
+      "procedure_validation": "6"
+    },
+    "D34X": {
+      "code": "D34X",
+      "laterality": "0",
+      "diagnosis_method": "7",
+      "age_of_diagnosis": "19.05",
+      "date_of_diagnosis": "12/12/1961"
+    },
+    "Q753": {
+      "code": "Q753",
+      "laterality": "0",
+      "diagnosis_method": "4",
+      "age_of_diagnosis": "60.06",
+      "date_of_diagnosis": "7/14/2014"
+    },
+    "80702": {
+      "code": "80702",
+      "site": "C449",
+      "morphology": "80702",
+      "laterality": "2",
+      "behavior": "2",
+      "diagnosis_method": "6",
+      "age_of_diagnosis": "57.91",
+      "date_of_diagnosis": "5/21/2012"
+    },
+    "5983-02-003": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "5983-02-004": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-02-005": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-02-006": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "689X": {
+      "code": "689X",
+      "laterality": "0",
+      "age_at_procedure": "40.41",
+      "date_of_procedure": "",
+      "intent": "9",
+      "procedure_validation": "2"
+    },
+    "E039": {
+      "code": "E039",
+      "laterality": "0",
+      "diagnosis_method": "2",
+      "age_of_diagnosis": "20.56",
+      "date_of_diagnosis": ""
+    },
+    "E059": {
+      "code": "E059",
+      "laterality": "0",
+      "diagnosis_method": "4",
+      "age_of_diagnosis": "49.2",
+      "date_of_diagnosis": "4/19/2001"
+    },
+    "E069": {
+      "code": "E069",
+      "laterality": "0",
+      "diagnosis_method": "6",
+      "age_of_diagnosis": "49.2",
+      "date_of_diagnosis": "4/19/2001"
+    },
+    "5983-02-007": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-02-008": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "5983-02-009": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-02-010": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "87202": {
+      "code": "87202",
+      "site": "C449",
+      "morphology": "87202",
+      "laterality": "0",
+      "behavior": "2",
+      "diagnosis_method": "2",
+      "age_of_diagnosis": "54.9",
+      "date_of_diagnosis": ""
+    },
+    "8520": {
+      "code": "8520",
+      "laterality": "1",
+      "age_at_procedure": "64.4",
+      "date_of_procedure": "12/12/2013",
+      "intent": "5",
+      "procedure_validation": "6"
+    },
+    "5983-02-011": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "064": {
+      "code": "064",
+      "laterality": "0",
+      "age_at_procedure": "49.2",
+      "date_of_procedure": "4/19/2001",
+      "intent": "1",
+      "procedure_validation": "7"
+    },
+    "5983-02-012": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-02-013": {
+      "name": "name here",
+      "father": "5983-04-003",
+      "mother": "5983-04-004"
+    },
+    "5983-02-014": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-03-001": {
+      "name": "name here",
+      "father": "5983-01-002",
+      "mother": "5983-01-001"
+    },
+    "5983-03-002": {
+      "name": "name here",
+      "father": "5983-01-002",
+      "mother": "5983-01-001"
+    },
+    "5983-03-003": {
+      "name": "name here",
+      "father": "5983-01-002",
+      "mother": "5983-01-001"
+    },
+    "89731": {
+      "code": "89731",
+      "site": "C343",
+      "morphology": "89731",
+      "laterality": "1",
+      "behavior": "1",
+      "diagnosis_method": "18",
+      "age_of_diagnosis": "0.28",
+      "date_of_diagnosis": "1/23/2014"
+    },
+    "J939": {
+      "code": "J939",
+      "laterality": "1",
+      "diagnosis_method": "5",
+      "age_of_diagnosis": "0.28",
+      "date_of_diagnosis": "1/24/2014"
+    },
+    "3249": {
+      "code": "3249",
+      "laterality": "1",
+      "age_at_procedure": "0.28",
+      "date_of_procedure": "1/23/2014",
+      "intent": "5",
+      "procedure_validation": "7"
+    },
+    "5983-03-004": {
+      "name": "name here",
+      "father": "5983-01-002",
+      "mother": "5983-01-001"
+    },
+    "5983-03-005": {
+      "name": "name here",
+      "father": "5983-01-014",
+      "mother": "5983-01-010"
+    },
+    "5983-03-006": {
+      "name": "name here",
+      "father": "5983-01-014",
+      "mother": "5983-01-010"
+    },
+    "5983-03-007": {
+      "name": "name here",
+      "father": "5983-01-015",
+      "mother": "5983-01-016"
+    },
+    "5983-03-008": {
+      "name": "name here",
+      "father": "5983-01-015",
+      "mother": "5983-01-016"
+    },
+    "5983-03-009": {
+      "name": "name here",
+      "father": "5983-01-017",
+      "mother": "5983-01-018"
+    },
+    "5983-03-010": {
+      "name": "name here",
+      "father": "5983-01-017",
+      "mother": "5983-01-018"
+    },
+    "5983-03-011": {
+      "name": "name here",
+      "father": "5983-01-024",
+      "mother": "5983-01-011"
+    },
+    "8891": {
+      "code": "8891",
+      "laterality": "0",
+      "age_at_procedure": "1.08",
+      "date_of_procedure": "11/29/2005",
+      "intent": "8",
+      "procedure_validation": "5"
+    },
+    "8703": {
+      "code": "8703",
+      "laterality": "0",
+      "age_at_procedure": "11.25",
+      "date_of_procedure": "2/2/2016",
+      "intent": "8",
+      "procedure_validation": "5"
+    },
+    "5983-03-012": {
+      "name": "name here",
+      "father": "5983-01-024",
+      "mother": "5983-01-011"
+    },
+    "5983-03-013": {
+      "name": "name here",
+      "father": "5983-01-024",
+      "mother": "5983-01-011"
+    },
+    "8744": {
+      "code": "8744",
+      "laterality": "",
+      "age_at_procedure": "0",
+      "date_of_procedure": "10/17/2017",
+      "intent": "8",
+      "procedure_validation": "5"
+    },
+    "5983-03-014": {
+      "name": "name here",
+      "father": "5983-01-023",
+      "mother": "5983-01-025"
+    },
+    "5983-03-015": {
+      "name": "name here",
+      "father": "5983-01-023",
+      "mother": "5983-01-025"
+    },
+    "5983-03-016": {
+      "name": "name here",
+      "father": "5983-01-003",
+      "mother": "5983-01-004"
+    },
+    "5983-03-017": {
+      "name": "name here",
+      "father": "5983-01-005",
+      "mother": "5983-01-006"
+    },
+    "5983-03-018": {
+      "name": "name here",
+      "father": "5983-01-003",
+      "mother": "5983-01-004"
+    },
+    "5983-03-019": {
+      "name": "name here",
+      "father": "5983-01-005",
+      "mother": "5983-01-006"
+    },
+    "5983-04-001": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "80003": {
+      "code": "80003",
+      "site": "C739",
+      "morphology": "80003",
+      "laterality": "0",
+      "behavior": "3",
+      "diagnosis_method": "1",
+      "age_of_diagnosis": "52.79",
+      "date_of_diagnosis": ""
+    },
+    "5983-04-002": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-04-003": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    },
+    "5983-04-004": {
+      "name": "name here",
+      "father": "",
+      "mother": ""
+    }
+  }
+}
