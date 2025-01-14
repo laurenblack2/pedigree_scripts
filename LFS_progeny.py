@@ -9,7 +9,7 @@ output_file = 'Files//05129_scrubbed.csv'
 df = pd.read_csv(file_in, low_memory = False) 
 df.head()
 
-print("\nv.1.3, 12/17/2024")
+print("\nv.1.3, 1/14/2025")
 # Section to drop extra & uneeded columns
 df = df.drop(['Sibling', 'CANCER.DERIV_PRSN_AGE', 'CANCER.OTH_Diagnosis Method', 'CANCER.TYPE_STD','CANCER.Dead End', 'N_CANCER.DERIV_PRSN_AGE', 'N_CANCER.DERIV_PRSN_AGE3', 'N_CANCER.OTH_Diagnosis Method', 'N_CANCER.TYPE', 'N_CANCER.Dead End', 'PRTRT.DERIV_PRSN_AGE', 'PRTRT.Oth Intent', 'PRTRT.Oth Procedure Validation', 'LEGACY_ID'], axis = 1)
 
