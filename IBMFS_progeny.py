@@ -3,8 +3,8 @@ import numpy as np
 from datetime import datetime
 
 # Making the data frame from the csv file provided
-file_in = 'Files//05129.csv'
-output_file = 'Files//05129_scrubbed.csv'
+file_in = 'Files//06869.csv'
+output_file = 'Files//Scrubbed//06869_scrubbed.csv'
 
 df = pd.read_csv(file_in, low_memory = False) 
 df.head()
@@ -31,6 +31,12 @@ df_reorder.loc[(df_reorder["spouse_number"] == 1) & (df_reorder["spouse_id"] == 
 df_reorder["spouse_number"] = df_reorder["spouse_number"].replace(0, np.nan)
 df_reorder["spouse_id"] = df_reorder["spouse_id"].replace(0, np.nan)
 
+df_reorder["multiple_birth_id"] = df_reorder["multiple_birth_id"].fillna(0)
+df_reorder["multiple_birth_type"] = df_reorder["multiple_birth_type"].fillna(0)
+df_reorder = (df_reorder.loc[~((df_reorder["multiple_birth_id"] == 0) & (df_reorder["multiple_birth_type"] != 0))])
+df_reorder["multiple_birth_id"] = df_reorder["multiple_birth_id"].replace(0, np.nan)
+df_reorder["multiple_birth_type"] = df_reorder["multiple_birth_type"].replace(0, np.nan)
+
 df_reorder = df_reorder.drop_duplicates()
 
 # Code to implement family_name, using the last_name of the proband
@@ -42,6 +48,6 @@ df_reorder["deceased"] = df_reorder["deceased"].fillna(df_reorder["vital_status"
 df_reorder["deceased"] = np.where(df_reorder["deceased"] == "Dead", "Yes", "No")
 
 dtyping = df_reorder.dtypes
-
+df_reorder = df_reorder.drop_duplicates()
 df_reorder.to_csv(output_file, index = False)
 print("\nNew Progeny CSV created\n")
